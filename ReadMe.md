@@ -6,7 +6,7 @@
    * https://reactnative.dev/docs/getting-started
 * Install React-native-cli:
    * https://reactnative.dev/docs/environment-setup
-   follow the above libk to setup the environment for react native cli and android.
+   follow the above link to setup the environment for react native cli and android.
 
 
 How To Run:
